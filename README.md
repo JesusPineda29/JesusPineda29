@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+Computacionales;Desarrollador+Full-Stack;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Visitantes+del+perfil" alt="Visitantes del perfil" />
-</p>
-
 ## 🚀 Sobre mí
 
 Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasionado por el desarrollo de software **full-stack**, la tecnología y la programación. Me encanta explorar nuevas herramientas y enfoques, manteniéndome siempre actualizado con las últimas tendencias tecnológicas.
@@ -19,20 +15,20 @@ Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasion
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusPineda29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusPineda29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 ## 🔥 Racha de contribuciones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00D9FF&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusPineda29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00D9FF&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
 </div>
 
 ## 📈 Gráfico de contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesusPineda29&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -90,28 +86,15 @@ Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasion
 
 ---
 
-## 📂 Proyectos Destacados
-
-<div align="center">
-  
-| Proyecto | Descripción | Tecnologías | Enlaces |
-|----------|-------------|-------------|---------|
-| 🧮 **Calculadora de Consumo y Propinas** | Aplicación web que optimiza cálculos en restaurantes y facilita el manejo de propinas | JavaScript, HTML5, CSS3 | [🌐 Demo](https://calculadora-consumo-prop.netlify.app) |
-| 🚀 **Mi Portafolio Personal** | Sitio web profesional showcasing mis proyectos y habilidades | React, CSS3, Responsive Design | [🌐 Visitar](https://jesus-pineda-portafolio.netlify.app) |
-
-</div>
-
----
-
 ## 📊 Métricas de Desarrollo
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tu-usuario&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusPineda29&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tu-usuario&theme=tokyonight" alt="Top Languages by Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tu-usuario&theme=tokyonight&utc_offset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JesusPineda29&theme=tokyonight" alt="Top Languages by Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JesusPineda29&theme=tokyonight&utc_offset=8" alt="Productive Time" />
 </div>
 
 ---
@@ -119,7 +102,7 @@ Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasion
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JesusPineda29&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -132,7 +115,7 @@ Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasion
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesuspineda1429@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-pineda-630a3b300)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://jesus-pineda-portafolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://jesuspineda.prismatiko.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
 </div>
@@ -148,3 +131,7 @@ Soy **Ingeniero en Sistemas Computacionales** en proceso de titulación, apasion
 **💡 "El código es poesía, la programación es arte, y la tecnología es el lienzo donde creamos el futuro"**
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Visitantes+del+perfil" alt="Visitantes del perfil" />
+</p>
